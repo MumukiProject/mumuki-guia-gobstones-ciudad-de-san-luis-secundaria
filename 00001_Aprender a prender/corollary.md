@@ -1,0 +1,1 @@
+¡Genial! Ya sabemos cómo prender una sola luz pero… ¡en las plazas hay muchas en cada vereda! :scream: 
