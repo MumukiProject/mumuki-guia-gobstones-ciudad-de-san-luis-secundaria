@@ -18,4 +18,4 @@ GBB/1.0
      head 0 1
 </gs-board>
 
-> Escribí el programa para prender las luces de las dos veredas horizontales de la plaza.
+> Dado el tablero anterior, escribí el programa para prender las luces de las dos veredas horizontales de la plaza.
