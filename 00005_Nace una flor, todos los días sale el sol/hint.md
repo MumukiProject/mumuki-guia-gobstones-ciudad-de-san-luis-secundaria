@@ -1,0 +1,1 @@
+¡Ojo! :eyes: Fijate en qué casillero estamos antes de empezar. Para armar el programa vas a tener que repetir las veces que necesites regar la zona y moverte. 
