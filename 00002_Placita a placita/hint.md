@@ -1,1 +1,1 @@
-Para que no quede un procedimiento muy largo, fijate qué comandos y procedimientos podés _repetir_.
+Para que no quede un procedimiento muy largo, fijate qué comandos y procedimientos podés _repetir_. ¡Y no te olvides que ya definiste `PrenderLuz`!
