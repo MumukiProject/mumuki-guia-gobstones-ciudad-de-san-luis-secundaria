@@ -7,8 +7,6 @@ Hablamos de una plaza, pero… ¿sabés de cuál? :thinking: Te dejamos unas pis
 
 ¡Sí, es la Plaza Pringles :tada:! ¡Prendamos sus luces!
 
-> Definí e invocá el procedimiento `Prender luz de la vereda` para que prenda las luces de toda la fila, dado este tablero:
->
 <gs-board>
 GBB/1.0
      size 5 3
@@ -19,4 +17,5 @@ GBB/1.0
      cell 4 1 Negro 1 
      head 0 1
 </gs-board>
->
+
+> Dado el tablero anterior, definí e invocá el procedimiento `Prender luz de la vereda` para que prenda las luces de toda la fila, dado este tablero:
