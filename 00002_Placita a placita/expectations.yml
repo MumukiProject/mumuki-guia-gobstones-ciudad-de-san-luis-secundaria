@@ -1,0 +1,17 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Declares:PrenderLuzDeLaVereda
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: program
+  inspection: Uses:PrenderLuzDeLaVereda
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: Intransitive:program
+  inspection: Not:Uses:PrenderLuz
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderLuzDeLaVereda
+  inspection: UsesRepeat
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: PrenderLuzDeLaVereda
+  inspection: Uses:PrenderLuz
