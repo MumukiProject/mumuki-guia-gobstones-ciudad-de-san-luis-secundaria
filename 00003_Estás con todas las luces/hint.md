@@ -1,0 +1,1 @@
+Vas a tener que usar el procedimiento `PrenderLuzDeLaVereda` que ya definiste anteriormente.
