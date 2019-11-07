@@ -1,0 +1,12 @@
+procedure PrenderLuz() {
+  Sacar(Negro)
+  Poner(Verde)
+}
+
+procedure PrenderLuzDeLaVereda() {
+  PrenderLuz()
+  repeat(4) {
+    Mover(Este)
+    PrenderLuz()
+  }
+}
