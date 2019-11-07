@@ -18,4 +18,4 @@ GBB/1.0
      head 0 1
 </gs-board>
 
-> Dado el tablero anterior, definí e invocá el procedimiento `Prender luz de la vereda` para que prenda las luces de toda la fila, dado este tablero:
+> Dado el tablero anterior, definí e invocá el procedimiento `Prender luz de la vereda` para que prenda las luces de toda la fila.
